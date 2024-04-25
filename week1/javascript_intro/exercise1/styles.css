@@ -1,0 +1,9 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+}
+.mydiv { 
+    width: 25px; height: 25px;
+    background-color: yellow; margin: 1px; 
+  }
