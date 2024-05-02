@@ -1,0 +1,95 @@
+{
+  "books": [
+    {
+      "id": "104",
+      "title": "soluta nesciunt",
+      "author": "Breanna Rowe",
+      "rating": 1.3,
+      "year_published": 1868
+    },
+    {
+      "id": "106",
+      "title": "atque rerum ut sed",
+      "author": "Treva Olson",
+      "rating": 4.2,
+      "year_published": 1991
+    },
+    {
+      "id": "107",
+      "title": "perspiciatis enim perferendis ut possimus quidem",
+      "author": "Cristian Brown",
+      "rating": 0.8,
+      "year_published": 1784
+    },
+    {
+      "id": "108",
+      "title": "qui sequi ut",
+      "author": "Gracie Swift",
+      "rating": 0.45,
+      "year_published": 2013
+    },
+    {
+      "id": "109",
+      "title": "et",
+      "author": "Alfredo Johnston",
+      "rating": 4,
+      "year_published": 2009
+    },
+    {
+      "id": "110",
+      "title": "cum aut qui consectetur",
+      "author": "Myra Dicki",
+      "rating": 3.8,
+      "year_published": 1850
+    },
+    {
+      "id": "111",
+      "title": "quibusdam ducimus tenetur",
+      "author": "Adah Hayes",
+      "rating": 4.3,
+      "year_published": 1983
+    },
+    {
+      "id": "114",
+      "title": "qui dolorum",
+      "author": "Luz Stroman",
+      "rating": 1.15,
+      "year_published": 1892
+    },
+    {
+      "id": "115",
+      "title": "magnam eveniet voluptas",
+      "author": "Linda Hilpert",
+      "rating": 3.9,
+      "year_published": 1966
+    },
+    {
+      "id": "7cb7",
+      "title": "AAA",
+      "author": "BBB",
+      "rating": "3",
+      "year_published": "2000"
+    },
+    {
+      "id": "48f2",
+      "title": "BBB",
+      "author": "dsfwreg",
+      "rating": "3",
+      "year_published": "2000"
+    },
+    {
+      "id": "195d",
+      "title": "SSS",
+      "author": "sssfwef",
+      "rating": "3",
+      "year_published": "2000"
+    },
+    {
+      "id": "102",
+      "title": "ad vel eos",
+      "author": "Johann Kulas",
+      "rating": 3.6,
+      "year_published": 1728
+    }
+  ]
+}
