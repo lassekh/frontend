@@ -1,7 +1,10 @@
 import { useState, useEffect } from "react";
 
 export default ({initialValue, inValue, deValue}) => {
-    const [count, setCount] = useState(initialValue)
+    const [count, setCount] = useState(() => {
+        const initialValue = localStorage.getItem('count');
+        return initialValue !== null ? parseInt(initialValue, 10) : 0;
+      })
     const handleClick = (e) => {
         if (e.target.id === "increase") {
             setCount(count + inValue)
@@ -10,11 +13,10 @@ export default ({initialValue, inValue, deValue}) => {
         }
     }
 
-    useEffect(
-        () => {
+    useEffect(() => {
             localStorage.setItem("count", count);
             Number(localStorage.getItem("count")) //Returns value as a string
-        }
+        }, [count]
     )
 
     return (
